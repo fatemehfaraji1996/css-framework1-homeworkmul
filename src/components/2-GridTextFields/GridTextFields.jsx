@@ -17,10 +17,7 @@ export default function GridTextFields() {
 <>
 <Box sx={{textAlign:"center"}}>
 <Typography variant='h3'> create your Account </Typography>
-
 </Box>
-
-
 <Container fixed sx={{alignItems:"center"}}>
     <Box sx={{ flexGrow: 1}} >
       <Grid container spacing={1}  sx={{ p:'20px' }} >
