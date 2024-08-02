@@ -16,7 +16,7 @@ const Item = styled(Paper)(({ theme }) => ({
 
 export default function AligendButtons() {
   const [isClicked, setIsClicked] = useState(false);
-  // if(!isClicked) setIsClicked(true)
+ 
   const handeldesable = () => {
     setIsClicked(true);
   };
