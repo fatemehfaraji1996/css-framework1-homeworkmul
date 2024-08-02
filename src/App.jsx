@@ -4,8 +4,9 @@ import BasicGrid from "./components/test";
 export default function App() {
   return (
     <div>
-    {/* <AligendButtons/>  */}
-    < BasicGrid></BasicGrid>   
+    <AligendButtons/> 
+    {/* < BasicGrid></BasicGrid>    */}
+
     </div>
   );
 }
